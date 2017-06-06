@@ -50,3 +50,11 @@ tensorboard/preprocess_test.p
 tensorboard/problem_unittests.py
 tensorboard/preprocess_validation.p
 tensorboard/cifar-10-batches-py/readme.html
+tv-script-generation/__pycache__/helper.cpython-35.pyc
+tv-script-generation/__pycache__/problem_unittests.cpython-35.pyc
+tv-script-generation/checkpoint
+tv-script-generation/params.p
+tv-script-generation/preprocess.p
+tv-script-generation/save.data-00000-of-00001
+tv-script-generation/save.index
+tv-script-generation/save.meta
