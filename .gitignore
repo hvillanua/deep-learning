@@ -58,3 +58,5 @@ tv-script-generation/preprocess.p
 tv-script-generation/save.data-00000-of-00001
 tv-script-generation/save.index
 tv-script-generation/save.meta
+seq2seq/__pycache__/helper.cpython-35.pyc
+image-classification/preprocess_test.p
