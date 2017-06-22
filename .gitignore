@@ -60,3 +60,5 @@ tv-script-generation/save.index
 tv-script-generation/save.meta
 seq2seq/__pycache__/helper.cpython-35.pyc
 image-classification/preprocess_test.p
+transfer-learning/labels
+transfer-learning/codes
