@@ -65,3 +65,7 @@ transfer-learning/codes
 language-translation/__pycache__/
 language-translation/preprocess.p
 language-translation/params.p
+reinforcement/checkpoints/cartpole.ckpt.data-00000-of-00001
+reinforcement/checkpoints/checkpoint
+reinforcement/checkpoints/cartpole.ckpt.meta
+reinforcement/checkpoints/cartpole.ckpt.index
