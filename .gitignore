@@ -69,3 +69,8 @@ reinforcement/checkpoints/cartpole.ckpt.data-00000-of-00001
 reinforcement/checkpoints/checkpoint
 reinforcement/checkpoints/cartpole.ckpt.meta
 reinforcement/checkpoints/cartpole.ckpt.index
+batch-norm/MNIST_data/train-labels-idx1-ubyte.gz
+batch-norm/MNIST_data/train-images-idx3-ubyte.gz
+batch-norm/MNIST_data/t10k-labels-idx1-ubyte.gz
+batch-norm/MNIST_data/t10k-images-idx3-ubyte.gz
+dcgan-svhn/samples.pkl
