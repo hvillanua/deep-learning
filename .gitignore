@@ -76,3 +76,5 @@ batch-norm/MNIST_data/t10k-images-idx3-ubyte.gz
 dcgan-svhn/samples.pkl
 face_generation/data/
 *.pyc
+semi-supervised/data/test_32x32.mat
+semi-supervised/data/train_32x32.mat
